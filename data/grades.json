@@ -1,0 +1,109 @@
+[
+  {
+    "grade": 1,
+    "title": "Lớp 1",
+    "subtitle": "Trạng Nguyên Nhí Khởi Đầu",
+    "icon": "🌱",
+    "color": "from-emerald-400 to-green-600",
+    "hasAudio": true,
+    "status": "ready",
+    "rounds": [
+      {
+        "id": "vong-5",
+        "name": "Vòng 5 - Thi Sơ Khảo",
+        "description": "4 bộ đề thi Sơ khảo cấp trường (Phân loại giỏ, Nối từ, Điền âm vần)",
+        "badge": "Cấp Trường",
+        "file": "data/lop1/vong5.json",
+        "examCount": 4
+      },
+      {
+        "id": "vong-6",
+        "name": "Vòng 6 - Thi Hương",
+        "description": "3 bộ đề thi Hương cấp Quận/Huyện (Nối câu, Sắp xếp câu, Thành ngữ)",
+        "badge": "Cấp Huyện",
+        "file": "data/lop1/vong6.json",
+        "examCount": 3
+      }
+    ]
+  },
+  {
+    "grade": 2,
+    "title": "Lớp 2",
+    "subtitle": "Hổ Con Nhanh Trí",
+    "icon": "🐯",
+    "color": "from-amber-400 to-orange-500",
+    "hasAudio": false,
+    "status": "coming_soon",
+    "rounds": []
+  },
+  {
+    "grade": 3,
+    "title": "Lớp 3",
+    "subtitle": "Rồng Vàng Tỏa Sáng",
+    "icon": "🐲",
+    "color": "from-yellow-400 to-amber-600",
+    "hasAudio": false,
+    "status": "coming_soon",
+    "rounds": []
+  },
+  {
+    "grade": 4,
+    "title": "Lớp 4",
+    "subtitle": "Trạng Nguyên Tranh Tài",
+    "icon": "📚",
+    "color": "from-blue-400 to-indigo-600",
+    "hasAudio": false,
+    "status": "coming_soon",
+    "rounds": []
+  },
+  {
+    "grade": 5,
+    "title": "Lớp 5",
+    "subtitle": "Bảng Vàng Đỗ Đầu",
+    "icon": "🎓",
+    "color": "from-purple-500 to-indigo-700",
+    "hasAudio": false,
+    "status": "coming_soon",
+    "rounds": []
+  },
+  {
+    "grade": 6,
+    "title": "Lớp 6",
+    "subtitle": "Ngữ Văn Khám Phá",
+    "icon": "📖",
+    "color": "from-rose-400 to-pink-600",
+    "hasAudio": false,
+    "status": "coming_soon",
+    "rounds": []
+  },
+  {
+    "grade": 7,
+    "title": "Lớp 7",
+    "subtitle": "Văn Học Tinh Hoa",
+    "icon": "✍️",
+    "color": "from-cyan-500 to-blue-700",
+    "hasAudio": false,
+    "status": "coming_soon",
+    "rounds": []
+  },
+  {
+    "grade": 8,
+    "title": "Lớp 8",
+    "subtitle": "Hành Trang Tri Thức",
+    "icon": "🧭",
+    "color": "from-teal-500 to-emerald-700",
+    "hasAudio": false,
+    "status": "coming_soon",
+    "rounds": []
+  },
+  {
+    "grade": 9,
+    "title": "Lớp 9",
+    "subtitle": "Vượt Vũ Môn Hóa Rồng",
+    "icon": "👑",
+    "color": "from-fuchsia-500 to-purple-800",
+    "hasAudio": false,
+    "status": "coming_soon",
+    "rounds": []
+  }
+]

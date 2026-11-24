@@ -1,0 +1,790 @@
+﻿{
+    "roundId":  "vong-6",
+    "roundName":  "Vòng 6 - Thi Hương",
+    "description":  "Bộ đề thi Trạng Nguyên Tiếng Việt Lớp 1 - Vòng 6 Thi Hương cấp Quận/Huyện",
+    "grade":  1,
+    "exams":  [
+                  {
+                      "duration":  1200,
+                      "title":  "Đề số 1",
+                      "sections":  [
+                                       {
+                                           "instruction":  "Bé hãy bấm chọn một ô bên trái rồi nối với ô bên phải để tạo thành câu có nghĩa nhé!",
+                                           "title":  "Bài 1. Mèo con nhanh nhẹn - Ghép vế câu hoàn chỉnh",
+                                           "type":  "match",
+                                           "pairs":  [
+                                                         {
+                                                             "left":  "Đàn dê",
+                                                             "right":  "kêu be be."
+                                                         },
+                                                         {
+                                                             "left":  "Trời mưa",
+                                                             "right":  "xối xả."
+                                                         },
+                                                         {
+                                                             "left":  "Con mèo",
+                                                             "right":  "đang rình bắt chuột."
+                                                         },
+                                                         {
+                                                             "left":  "Giếng nước",
+                                                             "right":  "trong veo."
+                                                         },
+                                                         {
+                                                             "left":  "Ngôi nhà",
+                                                             "right":  "cao năm tầng."
+                                                         },
+                                                         {
+                                                             "left":  "Đàn cò",
+                                                             "right":  "bay là trên cánh đồng."
+                                                         },
+                                                         {
+                                                             "left":  "Thầy cô",
+                                                             "right":  "dạy học."
+                                                         },
+                                                         {
+                                                             "left":  "Con lợn",
+                                                             "right":  "ủn ỉn."
+                                                         },
+                                                         {
+                                                             "left":  "Cành vải",
+                                                             "right":  "sai trĩu quả."
+                                                         },
+                                                         {
+                                                             "left":  "Hoa mai",
+                                                             "right":  "nở vào mùa xuân."
+                                                         }
+                                                     ]
+                                       },
+                                       {
+                                           "instruction":  "Em hãy bấm vào từng từ theo đúng thứ tự để tạo thành câu hoàn chỉnh nhé!",
+                                           "title":  "Bài 2. Hổ con thiên tài - Sắp xếp từ thành câu hoàn chỉnh",
+                                           "questions":  [
+                                                             {
+                                                                 "sentence":  "Nhà sạch thì mát",
+                                                                 "id":  1,
+                                                                 "words":  [
+                                                                               "thì",
+                                                                               "sạch",
+                                                                               "Nhà",
+                                                                               "mát"
+                                                                           ],
+                                                                 "answer":  [
+                                                                                "Nhà",
+                                                                                "sạch",
+                                                                                "thì",
+                                                                                "mát"
+                                                                            ]
+                                                             },
+                                                             {
+                                                                 "sentence":  "Giếng khoan sâu hoắm .",
+                                                                 "id":  2,
+                                                                 "words":  [
+                                                                               "sâu",
+                                                                               "khoan",
+                                                                               "hoắm",
+                                                                               ".",
+                                                                               "Giếng"
+                                                                           ],
+                                                                 "answer":  [
+                                                                                "Giếng",
+                                                                                "khoan",
+                                                                                "sâu",
+                                                                                "hoắm",
+                                                                                "."
+                                                                            ]
+                                                             },
+                                                             {
+                                                                 "sentence":  "Trăm hoa khoe sắc .",
+                                                                 "id":  3,
+                                                                 "words":  [
+                                                                               "sắc",
+                                                                               "hoa",
+                                                                               "Trăm",
+                                                                               ".",
+                                                                               "khoe"
+                                                                           ],
+                                                                 "answer":  [
+                                                                                "Trăm",
+                                                                                "hoa",
+                                                                                "khoe",
+                                                                                "sắc",
+                                                                                "."
+                                                                            ]
+                                                             },
+                                                             {
+                                                                 "sentence":  "Bát sạch ngon cơm",
+                                                                 "id":  4,
+                                                                 "words":  [
+                                                                               "cơm",
+                                                                               "Bát",
+                                                                               "ngon",
+                                                                               "sạch"
+                                                                           ],
+                                                                 "answer":  [
+                                                                                "Bát",
+                                                                                "sạch",
+                                                                                "ngon",
+                                                                                "cơm"
+                                                                            ]
+                                                             },
+                                                             {
+                                                                 "sentence":  "Mẹ bị ốm .",
+                                                                 "id":  5,
+                                                                 "words":  [
+                                                                               "ốm",
+                                                                               ".",
+                                                                               "bị",
+                                                                               "Mẹ"
+                                                                           ],
+                                                                 "answer":  [
+                                                                                "Mẹ",
+                                                                                "bị",
+                                                                                "ốm",
+                                                                                "."
+                                                                            ]
+                                                             },
+                                                             {
+                                                                 "sentence":  "Hoa cúc màu vàng .",
+                                                                 "id":  6,
+                                                                 "words":  [
+                                                                               "vàng",
+                                                                               "Hoa",
+                                                                               "màu",
+                                                                               ".",
+                                                                               "cúc"
+                                                                           ],
+                                                                 "answer":  [
+                                                                                "Hoa",
+                                                                                "cúc",
+                                                                                "màu",
+                                                                                "vàng",
+                                                                                "."
+                                                                            ]
+                                                             },
+                                                             {
+                                                                 "sentence":  "Hoa huệ trắng tinh .",
+                                                                 "id":  7,
+                                                                 "words":  [
+                                                                               "tinh",
+                                                                               ".",
+                                                                               "trắng",
+                                                                               "Hoa",
+                                                                               "huệ"
+                                                                           ],
+                                                                 "answer":  [
+                                                                                "Hoa",
+                                                                                "huệ",
+                                                                                "trắng",
+                                                                                "tinh",
+                                                                                "."
+                                                                            ]
+                                                             },
+                                                             {
+                                                                 "sentence":  "Chim vành khuyên đang bay .",
+                                                                 "id":  8,
+                                                                 "words":  [
+                                                                               "vành",
+                                                                               "Chim",
+                                                                               "đang",
+                                                                               "khuyên",
+                                                                               ".",
+                                                                               "bay"
+                                                                           ],
+                                                                 "answer":  [
+                                                                                "Chim",
+                                                                                "vành",
+                                                                                "khuyên",
+                                                                                "đang",
+                                                                                "bay",
+                                                                                "."
+                                                                            ]
+                                                             },
+                                                             {
+                                                                 "sentence":  "Bé đạp xe trên sân .",
+                                                                 "id":  9,
+                                                                 "words":  [
+                                                                               "trên",
+                                                                               "đạp",
+                                                                               "Bé",
+                                                                               "sân",
+                                                                               ".",
+                                                                               "xe"
+                                                                           ],
+                                                                 "answer":  [
+                                                                                "Bé",
+                                                                                "đạp",
+                                                                                "xe",
+                                                                                "trên",
+                                                                                "sân",
+                                                                                "."
+                                                                            ]
+                                                             },
+                                                             {
+                                                                 "sentence":  "Quả na có vị ngọt .",
+                                                                 "id":  10,
+                                                                 "words":  [
+                                                                               "có",
+                                                                               "na",
+                                                                               "vị",
+                                                                               "Quả",
+                                                                               "ngọt",
+                                                                               "."
+                                                                           ],
+                                                                 "answer":  [
+                                                                                "Quả",
+                                                                                "na",
+                                                                                "có",
+                                                                                "vị",
+                                                                                "ngọt",
+                                                                                "."
+                                                                            ]
+                                                             }
+                                                         ],
+                                           "type":  "sort"
+                                       },
+                                       {
+                                           "instruction":  "Bé hãy đọc kỹ câu hỏi và chọn đáp án đúng nhất nhé!",
+                                           "title":  "Bài 3. Trắc nghiệm Trạng Nguyên",
+                                           "questions":  [
+                                                             {
+                                                                 "explanation":  "Tốt và xấu là hai từ trái nghĩa nhau",
+                                                                 "answer":  "tốt",
+                                                                 "id":  1,
+                                                                 "question":  "Ngược với từ \u0027xấu\u0027 gọi là gì?",
+                                                                 "options":  [
+                                                                                 "đen",
+                                                                                 "tốt",
+                                                                                 "tươi",
+                                                                                 "dữ"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Lúa gạo là danh từ chỉ lương thực",
+                                                                 "answer":  "lúa gạo",
+                                                                 "id":  2,
+                                                                 "question":  "Từ nào dưới đây KHÔNG chỉ màu sắc?",
+                                                                 "options":  [
+                                                                                 "đỏ rực",
+                                                                                 "lúa gạo",
+                                                                                 "tím ngắt",
+                                                                                 "vàng tươi"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Con tàu là phương tiện giao thông",
+                                                                 "answer":  "con tàu",
+                                                                 "id":  3,
+                                                                 "question":  "Từ nào dưới đây KHÔNG chỉ con vật?",
+                                                                 "options":  [
+                                                                                 "con ong",
+                                                                                 "con gà",
+                                                                                 "con chim",
+                                                                                 "con tàu"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Người làm thơ gọi là nhà thơ",
+                                                                 "answer":  "nhà thơ",
+                                                                 "id":  4,
+                                                                 "question":  "Người sáng tác thơ ca được gọi là gì?",
+                                                                 "options":  [
+                                                                                 "thầy giáo",
+                                                                                 "nhà thơ",
+                                                                                 "nhà báo",
+                                                                                 "công an"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Cả \u0027trơn\u0027 và \u0027cơn\u0027 đều có vần ơn",
+                                                                 "answer":  "trơn, cơn",
+                                                                 "id":  5,
+                                                                 "question":  "Những từ nào có vần \u0027ơn\u0027 trong câu: \u0027Mẹ Bống đi chợ đường trơn / Bống ra gánh đỡ chạy cơn mưa ròng.\u0027?",
+                                                                 "options":  [
+                                                                                 "chợ",
+                                                                                 "trơn",
+                                                                                 "cơn",
+                                                                                 "trơn, cơn"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Con hổ là loài vật sống trong rừng sâu",
+                                                                 "answer":  "hổ",
+                                                                 "id":  6,
+                                                                 "question":  "Trong các từ sau, từ nào chỉ con vật sống trong rừng?",
+                                                                 "options":  [
+                                                                                 "hổ",
+                                                                                 "trâu",
+                                                                                 "ngan",
+                                                                                 "vịt"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Công nhân làm việc trong các nhà máy, xí nghiệp",
+                                                                 "answer":  "anh công nhân",
+                                                                 "id":  7,
+                                                                 "question":  "Chọn từ phù hợp: \u0027...... làm việc trong nhà máy.\u0027?",
+                                                                 "options":  [
+                                                                                 "chú công an",
+                                                                                 "cô giáo em",
+                                                                                 "bác nông dân",
+                                                                                 "anh công nhân"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Chiếc bóng đèn điện thắp sáng trong nhà",
+                                                                 "answer":  "bóng đèn",
+                                                                 "id":  8,
+                                                                 "question":  "Giải câu đố: \u0027Cái gì bật sáng trong đêm / Giúp cho nhà dưới, nhà trên sáng ngời?\u0027",
+                                                                 "options":  [
+                                                                                 "bóng bay",
+                                                                                 "bật lửa",
+                                                                                 "bóng đèn",
+                                                                                 "đom đóm"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Tiếng \u0027xuyến\u0027 có vần uyên",
+                                                                 "answer":  "xuyến",
+                                                                 "id":  9,
+                                                                 "question":  "Từ nào chứa vần \u0027uyên\u0027 trong câu: \u0027Hoa xao xuyến nở / Như mây từng chùm.\u0027?",
+                                                                 "options":  [
+                                                                                 "yêu",
+                                                                                 "xoan",
+                                                                                 "xuyến",
+                                                                                 "chùm"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Chim cánh cụt bơi lội và lặn rất giỏi dưới biển",
+                                                                 "answer":  "chim cánh cụt",
+                                                                 "id":  10,
+                                                                 "question":  "Trong các loài chim sau, loài nào có thể bơi lặn giỏi dưới nước?",
+                                                                 "options":  [
+                                                                                 "chim sơn ca",
+                                                                                 "chim cánh cụt",
+                                                                                 "chim bồ câu",
+                                                                                 "chim chiền chiện"
+                                                                             ]
+                                                             }
+                                                         ],
+                                           "type":  "quiz"
+                                       }
+                                   ],
+                      "id":  "v6-de-1"
+                  },
+                  {
+                      "duration":  1200,
+                      "title":  "Đề số 2",
+                      "sections":  [
+                                       {
+                                           "instruction":  "Bé hãy chọn chữ cái hoặc từ thích hợp để điền vào chỗ chấm nhé!",
+                                           "title":  "Bài 1. Điền từ vào câu thành ngữ, tục ngữ",
+                                           "questions":  [
+                                                             {
+                                                                 "explanation":  "Thành ngữ: Anh em như thể chân tay",
+                                                                 "answer":  "tay",
+                                                                 "id":  1,
+                                                                 "question":  "Điền từ còn thiếu: Anh em như thể chân ......",
+                                                                 "options":  [
+                                                                                 "tay",
+                                                                                 "chân",
+                                                                                 "mắt",
+                                                                                 "đầu"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Tục ngữ: Rách lành đùm bọc dở hay đỡ đần",
+                                                                 "answer":  "hay",
+                                                                 "id":  2,
+                                                                 "question":  "Điền từ còn thiếu: Rách lành đùm bọc dở ...... đỡ đần",
+                                                                 "options":  [
+                                                                                 "tốt",
+                                                                                 "hay",
+                                                                                 "ngoan",
+                                                                                 "khéo"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Thành công",
+                                                                 "answer":  "th",
+                                                                 "id":  3,
+                                                                 "question":  "Điền chữ cái: Thất bại là mẹ ......ành công.",
+                                                                 "options":  [
+                                                                                 "th",
+                                                                                 "ch",
+                                                                                 "tr",
+                                                                                 "kh"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Rách (Giấy rách phải giữ lấy lề)",
+                                                                 "answer":  "r",
+                                                                 "id":  4,
+                                                                 "question":  "Điền chữ cái: Giấy ......ách phải giữ lấy lề.",
+                                                                 "options":  [
+                                                                                 "r",
+                                                                                 "d",
+                                                                                 "gi",
+                                                                                 "s"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Nhớ (Uống nước nhớ nguồn)",
+                                                                 "answer":  "nh",
+                                                                 "id":  5,
+                                                                 "question":  "Điền chữ cái: Uống nước ......ớ nguồn.",
+                                                                 "options":  [
+                                                                                 "nh",
+                                                                                 "ng",
+                                                                                 "ngh",
+                                                                                 "gh"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Thầy (Kính thầy yêu bạn)",
+                                                                 "answer":  "th",
+                                                                 "id":  6,
+                                                                 "question":  "Điền chữ cái: Kính ......ầy yêu bạn.",
+                                                                 "options":  [
+                                                                                 "th",
+                                                                                 "ch",
+                                                                                 "tr",
+                                                                                 "kh"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Sạch (Đói cho sạch, rách cho thơm)",
+                                                                 "answer":  "s",
+                                                                 "id":  7,
+                                                                 "question":  "Điền chữ cái: Đói cho ......ạch rách cho thơm.",
+                                                                 "options":  [
+                                                                                 "s",
+                                                                                 "x",
+                                                                                 "ch",
+                                                                                 "tr"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Non (Một cây làm chẳng nên non)",
+                                                                 "answer":  "n",
+                                                                 "id":  8,
+                                                                 "question":  "Điền chữ cái: Một cây làm chẳng nên ......on.",
+                                                                 "options":  [
+                                                                                 "n",
+                                                                                 "l",
+                                                                                 "m",
+                                                                                 "h"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Núi (Hòn núi cao)",
+                                                                 "answer":  "n",
+                                                                 "id":  9,
+                                                                 "question":  "Điền chữ cái: Ba cây chụm lại nên hòn ......úi cao.",
+                                                                 "options":  [
+                                                                                 "n",
+                                                                                 "l",
+                                                                                 "m",
+                                                                                 "d"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Thỏ đế (Nhát như thỏ đế)",
+                                                                 "answer":  "th",
+                                                                 "id":  10,
+                                                                 "question":  "Điền chữ cái: Nhát như ......ỏ đế.",
+                                                                 "options":  [
+                                                                                 "th",
+                                                                                 "ch",
+                                                                                 "tr",
+                                                                                 "kh"
+                                                                             ]
+                                                             }
+                                                         ],
+                                           "type":  "quiz"
+                                       },
+                                       {
+                                           "instruction":  "Em hãy quan sát và chọn đáp án chính xác nhất nhé!",
+                                           "title":  "Bài 2. Trắc nghiệm hình ảnh và câu đố",
+                                           "questions":  [
+                                                             {
+                                                                 "explanation":  "Cọng rơm vàng mùa gặt",
+                                                                 "answer":  "vàng",
+                                                                 "id":  1,
+                                                                 "question":  "Từ nào thích hợp điền vào câu: \u0027Tiếng chim rơi ngọt quá! / Khẽ động cọng rơm ......\u0027?",
+                                                                 "options":  [
+                                                                                 "xanh",
+                                                                                 "trắng",
+                                                                                 "vàng",
+                                                                                 "đỏ"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Trái gấc chín đỏ",
+                                                                 "answer":  "gấc",
+                                                                 "id":  2,
+                                                                 "question":  "Điền từ còn thiếu: \u0027Trái ...... xinh xinh / Nắng vàng chín đỏ / Bao nhiêu mặt trời / Ngủ say trong đó.\u0027?",
+                                                                 "options":  [
+                                                                                 "na",
+                                                                                 "chuối",
+                                                                                 "gấc",
+                                                                                 "táo"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Loài kiến chăm chỉ tha mồi về tổ",
+                                                                 "answer":  "con kiến",
+                                                                 "id":  3,
+                                                                 "question":  "Giải câu đố: \u0027Con gì bé tí / Đi lại từng đàn / Kiếm được mồi ngon / Cùng tha về tổ?\u0027",
+                                                                 "options":  [
+                                                                                 "con dế",
+                                                                                 "con muỗi",
+                                                                                 "con ong",
+                                                                                 "con kiến"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Viết đúng phải là \u0027giọt sương\u0027 chứ không phải \u0027xương\u0027",
+                                                                 "answer":  "xương",
+                                                                 "id":  4,
+                                                                 "question":  "Từ nào trong khổ thơ viết sai chính tả: \u0027Hạt xương bé tí tẹo / Đựng cả ông mặt trời / Ai treo trên ngọn cỏ / Lung linh mà không rơi.\u0027?",
+                                                                 "options":  [
+                                                                                 "treo",
+                                                                                 "trời",
+                                                                                 "rơi",
+                                                                                 "xương"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Nhà sạch thì mát, bát sạch ngon cơm",
+                                                                 "answer":  "mát",
+                                                                 "id":  5,
+                                                                 "question":  "Điền từ còn thiếu vào câu tục ngữ: \u0027Nhà sạch thì ......, bát sạch ngon cơm.\u0027?",
+                                                                 "options":  [
+                                                                                 "đẹp",
+                                                                                 "tốt",
+                                                                                 "thích",
+                                                                                 "mát"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Luật chính tả: k chỉ đi với i, e, ê",
+                                                                 "answer":  "i, e, ê",
+                                                                 "id":  6,
+                                                                 "question":  "Chữ cái \u0027k\u0027 chỉ có thể ghép với những nguyên âm nào?",
+                                                                 "options":  [
+                                                                                 "a, ă, â",
+                                                                                 "i, u, ư",
+                                                                                 "o, ô, ơ",
+                                                                                 "i, e, ê"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Con gà mái đẻ trứng ấp ra gà con lông vàng óng",
+                                                                 "answer":  "gà mái",
+                                                                 "id":  7,
+                                                                 "question":  "Giải câu đố: \u0027Con gì quang quác / Cục tác cục te / Đẻ trứng tròn xoe / Nở bông vàng bé?\u0027",
+                                                                 "options":  [
+                                                                                 "bồ câu",
+                                                                                 "vịt",
+                                                                                 "gà trống",
+                                                                                 "gà mái"
+                                                                             ]
+                                                             }
+                                                         ],
+                                           "type":  "quiz"
+                                       }
+                                   ],
+                      "id":  "v6-de-2"
+                  },
+                  {
+                      "duration":  1200,
+                      "title":  "Đề số 3",
+                      "sections":  [
+                                       {
+                                           "instruction":  "Bé hãy chọn từ hoặc chữ cái điền vào chỗ chấm nhé!",
+                                           "title":  "Bài 1. Điền từ thành ngữ \u0026 tục ngữ",
+                                           "questions":  [
+                                                             {
+                                                                 "explanation":  "Dám làm",
+                                                                 "answer":  "d",
+                                                                 "id":  1,
+                                                                 "question":  "Điền chữ cái: Dám nghĩ ......ám làm.",
+                                                                 "options":  [
+                                                                                 "d",
+                                                                                 "g",
+                                                                                 "gi",
+                                                                                 "r"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Muôn người như một",
+                                                                 "answer":  "ng",
+                                                                 "id":  2,
+                                                                 "question":  "Điền chữ cái: Muôn ......ười như một.",
+                                                                 "options":  [
+                                                                                 "ng",
+                                                                                 "ngh",
+                                                                                 "nh",
+                                                                                 "gh"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Một con ngựa đau cả tàu bỏ cỏ",
+                                                                 "answer":  "con",
+                                                                 "id":  3,
+                                                                 "question":  "Điền từ: Một ...... ngựa đau cả tàu bỏ cỏ.",
+                                                                 "options":  [
+                                                                                 "con",
+                                                                                 "chú",
+                                                                                 "đàn",
+                                                                                 "bầy"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Chín điều lành",
+                                                                 "answer":  "l",
+                                                                 "id":  4,
+                                                                 "question":  "Điền chữ cái: Một điều nhịn chín điều ......ành.",
+                                                                 "options":  [
+                                                                                 "l",
+                                                                                 "n",
+                                                                                 "m",
+                                                                                 "h"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Công cha như núi Thái Sơn",
+                                                                 "answer":  "cha",
+                                                                 "id":  5,
+                                                                 "question":  "Điền từ: Công ...... như núi Thái Sơn.",
+                                                                 "options":  [
+                                                                                 "cha",
+                                                                                 "mẹ",
+                                                                                 "thầy",
+                                                                                 "ông"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Trong nguồn (nước trong nguồn)",
+                                                                 "answer":  "tr",
+                                                                 "id":  6,
+                                                                 "question":  "Điền chữ cái: Nghĩa mẹ như nước ......ong nguồn chảy ra.",
+                                                                 "options":  [
+                                                                                 "tr",
+                                                                                 "ch",
+                                                                                 "t",
+                                                                                 "c"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Đá nhau",
+                                                                 "answer":  "n",
+                                                                 "id":  7,
+                                                                 "question":  "Điền chữ cái: Gà cùng một mẹ chớ hoài đá ......au.",
+                                                                 "options":  [
+                                                                                 "n",
+                                                                                 "m",
+                                                                                 "s",
+                                                                                 "x"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Rụng (Lá rụng về cội)",
+                                                                 "answer":  "r",
+                                                                 "id":  8,
+                                                                 "question":  "Điền chữ cái: Lá ......ụng về cội.",
+                                                                 "options":  [
+                                                                                 "r",
+                                                                                 "d",
+                                                                                 "gi",
+                                                                                 "l"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Khôn (học một sàng khôn)",
+                                                                 "answer":  "kh",
+                                                                 "id":  9,
+                                                                 "question":  "Điền chữ cái: Đi một ngày đàng học một sàng ......ôn.",
+                                                                 "options":  [
+                                                                                 "kh",
+                                                                                 "k",
+                                                                                 "c",
+                                                                                 "qu"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Khôn ngoan",
+                                                                 "answer":  "ng",
+                                                                 "id":  10,
+                                                                 "question":  "Điền chữ cái: Khôn ......oan đối đáp người ngoài.",
+                                                                 "options":  [
+                                                                                 "ng",
+                                                                                 "ngh",
+                                                                                 "nh",
+                                                                                 "gh"
+                                                                             ]
+                                                             }
+                                                         ],
+                                           "type":  "quiz"
+                                       },
+                                       {
+                                           "instruction":  "Bé hãy chọn đáp án đúng cho các câu hỏi sau nhé!",
+                                           "title":  "Bài 2. Trắc nghiệm kiến thức tổng hợp",
+                                           "questions":  [
+                                                             {
+                                                                 "explanation":  "Mặt trời mọc buổi sáng",
+                                                                 "answer":  "trời",
+                                                                 "id":  1,
+                                                                 "question":  "Điền từ thích hợp vào chỗ chấm: \u0027Mặt ...... tỉnh giấc / Hai má ửng hồng / Từng đám mây bông / Vươn vai thức dậy.\u0027?",
+                                                                 "options":  [
+                                                                                 "trăng",
+                                                                                 "trời",
+                                                                                 "biển",
+                                                                                 "sông"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Mùa thu tựu trường, trái bàng chín vàng",
+                                                                 "answer":  "thu",
+                                                                 "id":  2,
+                                                                 "question":  "Điền từ thích hợp vào chỗ chấm: \u0027Em vào năm học mới / Mùa ...... chín trên cây / Những trái bàng thơm ngát / Hương bay tận trời mây.\u0027?",
+                                                                 "options":  [
+                                                                                 "xuân",
+                                                                                 "hạ",
+                                                                                 "thu",
+                                                                                 "đông"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Chú ong chăm chỉ hút mật tìm hoa",
+                                                                 "answer":  "ong",
+                                                                 "id":  3,
+                                                                 "question":  "Điền tên con vật thích hợp: \u0027Con ...... chăm chỉ lên đường tìm hoa.\u0027?",
+                                                                 "options":  [
+                                                                                 "kiến",
+                                                                                 "ong",
+                                                                                 "ve",
+                                                                                 "sâu"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Viết đúng phải là \u0027hoa sen\u0027",
+                                                                 "answer":  "xen",
+                                                                 "id":  4,
+                                                                 "question":  "Từ nào trong khổ thơ viết sai chính tả: \u0027Hoa xen đã nở / Rực rỡ đầy hồ / Thoang thoảng gió đưa / Mùi hương thơm ngát.\u0027?",
+                                                                 "options":  [
+                                                                                 "xen",
+                                                                                 "nở",
+                                                                                 "rực rỡ",
+                                                                                 "hương"
+                                                                             ]
+                                                             }
+                                                         ],
+                                           "type":  "quiz"
+                                       }
+                                   ],
+                      "id":  "v6-de-3"
+                  }
+              ]
+}

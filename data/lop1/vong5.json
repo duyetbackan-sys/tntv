@@ -1,0 +1,653 @@
+﻿{
+    "roundId":  "vong-5",
+    "roundName":  "Vòng 5 - Thi Sơ Khảo",
+    "description":  "Bộ đề thi Trạng Nguyên Tiếng Việt Lớp 1 - Vòng 5 Sơ khảo cấp trường",
+    "grade":  1,
+    "exams":  [
+                  {
+                      "duration":  1200,
+                      "title":  "Đề số 1",
+                      "sections":  [
+                                       {
+                                           "instruction":  "Em hãy xếp các từ dưới đây vào đúng giỏ vần tương ứng nhé!",
+                                           "title":  "Bài 1. Thả từ vào giỏ chủ đề thích hợp",
+                                           "items":  [
+                                                         {
+                                                             "text":  "Bắt cá",
+                                                             "basketId":  "b1"
+                                                         },
+                                                         {
+                                                             "text":  "Khăn mặt",
+                                                             "basketId":  "b1"
+                                                         },
+                                                         {
+                                                             "text":  "Chủ nhật",
+                                                             "basketId":  "b2"
+                                                         },
+                                                         {
+                                                             "text":  "Bật lửa",
+                                                             "basketId":  "b2"
+                                                         },
+                                                         {
+                                                             "text":  "Lật đật",
+                                                             "basketId":  "b2"
+                                                         },
+                                                         {
+                                                             "text":  "Thịt gà",
+                                                             "basketId":  "b3"
+                                                         },
+                                                         {
+                                                             "text":  "Quả mít",
+                                                             "basketId":  "b3"
+                                                         }
+                                                     ],
+                                           "baskets":  [
+                                                           {
+                                                               "label":  "Có vần \u0027ăt\u0027",
+                                                               "color":  "from-amber-400 to-orange-500",
+                                                               "id":  "b1"
+                                                           },
+                                                           {
+                                                               "label":  "Có vần \u0027ât\u0027",
+                                                               "color":  "from-emerald-400 to-teal-500",
+                                                               "id":  "b2"
+                                                           },
+                                                           {
+                                                               "label":  "Có vần \u0027it\u0027",
+                                                               "color":  "from-sky-400 to-blue-500",
+                                                               "id":  "b3"
+                                                           }
+                                                       ],
+                                           "type":  "basket"
+                                       },
+                                       {
+                                           "instruction":  "Em hãy bấm chọn một ô bên trái rồi bấm tiếp ô bên phải phù hợp để ghép thành từ đúng nhé!",
+                                           "title":  "Bài 2. Mèo con nhanh nhẹn - Nối cặp từ thích hợp",
+                                           "type":  "match",
+                                           "pairs":  [
+                                                         {
+                                                             "left":  "Cơn",
+                                                             "right":  "mưa"
+                                                         },
+                                                         {
+                                                             "left":  "Quả",
+                                                             "right":  "ớt"
+                                                         },
+                                                         {
+                                                             "left":  "Dế",
+                                                             "right":  "mèn"
+                                                         },
+                                                         {
+                                                             "left":  "Cà",
+                                                             "right":  "rốt"
+                                                         },
+                                                         {
+                                                             "left":  "Khuôn",
+                                                             "right":  "mặt"
+                                                         },
+                                                         {
+                                                             "left":  "Bếp",
+                                                             "right":  "ga"
+                                                         },
+                                                         {
+                                                             "left":  "Hòn",
+                                                             "right":  "đá"
+                                                         },
+                                                         {
+                                                             "left":  "Tuốt",
+                                                             "right":  "lúa"
+                                                         },
+                                                         {
+                                                             "left":  "Bác",
+                                                             "right":  "sĩ"
+                                                         },
+                                                         {
+                                                             "left":  "Giặt",
+                                                             "right":  "giũ"
+                                                         }
+                                                     ]
+                                       },
+                                       {
+                                           "instruction":  "Em hãy quan sát tranh và chọn chữ cái hoặc vần thích hợp để hoàn thành câu nhé!",
+                                           "title":  "Bài 3. Chuột con nhanh trí - Điền từ vào chỗ trống",
+                                           "questions":  [
+                                                             {
+                                                                 "explanation":  "Thành ngữ: Chị ngã em nâng",
+                                                                 "answer":  "n",
+                                                                 "id":  1,
+                                                                 "question":  "Điền l hoặc n vào chỗ trống: Chị ngã em ......âng.",
+                                                                 "options":  [
+                                                                                 "l",
+                                                                                 "n"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Con giun bò trên mặt đất",
+                                                                 "answer":  "un",
+                                                                 "id":  2,
+                                                                 "question":  "Điền vần un hoặc um: Con gi...... bò trên mặt đất.",
+                                                                 "options":  [
+                                                                                 "un",
+                                                                                 "um"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Món ăn: nem rán",
+                                                                 "answer":  "n",
+                                                                 "id":  3,
+                                                                 "question":  "Điền l hoặc n: Mẹ rán ......em cho bé Nga.",
+                                                                 "options":  [
+                                                                                 "l",
+                                                                                 "n"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Chợ quê",
+                                                                 "answer":  "qu",
+                                                                 "id":  4,
+                                                                 "question":  "Điền c, k hoặc qu: Lò rèn ở phố đỏ lửa như ở chợ ......ê.",
+                                                                 "options":  [
+                                                                                 "c",
+                                                                                 "k",
+                                                                                 "qu"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "id":  5,
+                                                                 "answer":  "v",
+                                                                 "explanation":  "Trong hình là con chim vẹt",
+                                                                 "image":  "assets/images/v5_image7.png",
+                                                                 "options":  [
+                                                                                 "v",
+                                                                                 "d",
+                                                                                 "r",
+                                                                                 "g"
+                                                                             ],
+                                                                 "question":  "Nhìn tranh và điền chữ cái phù hợp: chim ......ẹt."
+                                                             },
+                                                             {
+                                                                 "explanation":  "Ven hồ (bờ hồ)",
+                                                                 "answer":  "en",
+                                                                 "id":  6,
+                                                                 "question":  "Điền en hoặc em: Con cò bắt cá ở v...... hồ.",
+                                                                 "options":  [
+                                                                                 "en",
+                                                                                 "em"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "id":  7,
+                                                                 "answer":  "g",
+                                                                 "explanation":  "Trong hình là quả gấc chín đỏ",
+                                                                 "image":  "assets/images/v5_image8.png",
+                                                                 "options":  [
+                                                                                 "g",
+                                                                                 "c",
+                                                                                 "k",
+                                                                                 "q"
+                                                                             ],
+                                                                 "question":  "Nhìn tranh và điền chữ cái phù hợp: quả ......ấc."
+                                                             },
+                                                             {
+                                                                 "explanation":  "Chín đỏ",
+                                                                 "answer":  "ch",
+                                                                 "id":  8,
+                                                                 "question":  "Điền ch hoặc tr: Giàn nhót nhà bà ......ín đỏ.",
+                                                                 "options":  [
+                                                                                 "ch",
+                                                                                 "tr"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "id":  9,
+                                                                 "answer":  "m",
+                                                                 "explanation":  "Chú dế mèn",
+                                                                 "image":  "assets/images/v5_image9.png",
+                                                                 "options":  [
+                                                                                 "m",
+                                                                                 "n",
+                                                                                 "l",
+                                                                                 "h"
+                                                                             ],
+                                                                 "question":  "Nhìn tranh và điền chữ cái phù hợp: dế ......èn."
+                                                             },
+                                                             {
+                                                                 "explanation":  "Mứt dừa",
+                                                                 "answer":  "d",
+                                                                 "id":  10,
+                                                                 "question":  "Điền d, r hoặc gi: Mẹ làm mứt ......ừa cho bé.",
+                                                                 "options":  [
+                                                                                 "d",
+                                                                                 "r",
+                                                                                 "gi"
+                                                                             ]
+                                                             }
+                                                         ],
+                                           "type":  "quiz"
+                                       }
+                                   ],
+                      "id":  "v5-de-1"
+                  },
+                  {
+                      "duration":  1200,
+                      "title":  "Đề số 2",
+                      "sections":  [
+                                       {
+                                           "instruction":  "Bé hãy bấm vào ô vần và ô từ chứa vần tương ứng để ghép đôi nhé!",
+                                           "title":  "Bài 1. Mèo con nhanh nhẹn - Nối cặp từ với vần phù hợp",
+                                           "type":  "match",
+                                           "pairs":  [
+                                                         {
+                                                             "left":  "Vần \u0027êt\u0027",
+                                                             "right":  "Nết na"
+                                                         },
+                                                         {
+                                                             "left":  "Vần \u0027ôt\u0027",
+                                                             "right":  "Cột cờ"
+                                                         },
+                                                         {
+                                                             "left":  "Vần \u0027uôn\u0027",
+                                                             "right":  "Chuồn chuồn"
+                                                         },
+                                                         {
+                                                             "left":  "Vần \u0027ên\u0027",
+                                                             "right":  "Ốc sên"
+                                                         },
+                                                         {
+                                                             "left":  "Vần \u0027ưt\u0027",
+                                                             "right":  "Mứt dừa"
+                                                         },
+                                                         {
+                                                             "left":  "Vần \u0027uc\u0027",
+                                                             "right":  "Thể dục"
+                                                         }
+                                                     ]
+                                       },
+                                       {
+                                           "instruction":  "Em hãy đọc kỹ câu hỏi và chọn đáp án chính xác nhất nhé!",
+                                           "title":  "Bài 2. Trắc nghiệm thông thái",
+                                           "questions":  [
+                                                             {
+                                                                 "explanation":  "Trong suốt",
+                                                                 "answer":  "s",
+                                                                 "id":  1,
+                                                                 "question":  "Chọn chữ phù hợp để điền vào chỗ trống: trong ......uốt",
+                                                                 "options":  [
+                                                                                 "x",
+                                                                                 "m",
+                                                                                 "n",
+                                                                                 "s"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Nàng tiên",
+                                                                 "answer":  "iên",
+                                                                 "id":  2,
+                                                                 "question":  "Chọn vần thích hợp để điền vào từ sau: nàng t......",
+                                                                 "options":  [
+                                                                                 "iêp",
+                                                                                 "iên",
+                                                                                 "yên",
+                                                                                 "iêng"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "id":  3,
+                                                                 "answer":  "Hoa súng",
+                                                                 "explanation":  "Hoa súng có tiếng \u0027súng\u0027 chứa vần \u0027ung\u0027",
+                                                                 "image":  "assets/images/v5_image15.png",
+                                                                 "options":  [
+                                                                                 "Hoa hồng",
+                                                                                 "Hoa lan",
+                                                                                 "Hoa cúc",
+                                                                                 "Hoa súng"
+                                                                             ],
+                                                                 "question":  "Tên loài hoa nào dưới đây có vần \u0027ung\u0027?"
+                                                             },
+                                                             {
+                                                                 "explanation":  "Tiếng \u0027nhót\u0027 có vần \u0027ot\u0027",
+                                                                 "answer":  "ot",
+                                                                 "id":  4,
+                                                                 "question":  "Vần nào có trong câu: \u0027Giàn nhót của bà chín đỏ.\u0027?",
+                                                                 "options":  [
+                                                                                 "ong",
+                                                                                 "ông",
+                                                                                 "uôt",
+                                                                                 "ot"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "id":  5,
+                                                                 "answer":  "củ gừng",
+                                                                 "explanation":  "Trong hình là củ gừng",
+                                                                 "image":  "assets/images/v5_image16.png",
+                                                                 "options":  [
+                                                                                 "củ hành",
+                                                                                 "củ gừng",
+                                                                                 "củ nghệ",
+                                                                                 "củ tỏi"
+                                                                             ],
+                                                                 "question":  "Đây là củ gì?"
+                                                             },
+                                                             {
+                                                                 "explanation":  "Tiếng \u0027sóc\u0027 có vần \u0027oc\u0027",
+                                                                 "answer":  "con sóc",
+                                                                 "id":  6,
+                                                                 "question":  "Tên con vật nào có chứa vần \u0027oc\u0027?",
+                                                                 "options":  [
+                                                                                 "con ốc",
+                                                                                 "con ong",
+                                                                                 "con sóc",
+                                                                                 "con chó"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Cà rốt (rốt), lá lốt (lốt), cột cờ (cột) đều có vần \u0027ôt\u0027",
+                                                                 "answer":  "cà rốt, lá lốt, cột cờ",
+                                                                 "id":  7,
+                                                                 "question":  "Dòng nào dưới đây chỉ gồm các từ chứa tiếng có vần \u0027ôt\u0027?",
+                                                                 "options":  [
+                                                                                 "bột mì, cột nhà, đỏ chót",
+                                                                                 "cà rốt, lá lốt, cột cờ",
+                                                                                 "cà rốt, bột mì, quả ớt",
+                                                                                 "quả nhót, cột nhà, cà rốt"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Củ lạc (tiếng \u0027lạc\u0027 có vần \u0027ac\u0027)",
+                                                                 "answer":  "củ lạc",
+                                                                 "id":  8,
+                                                                 "question":  "Tên loại củ nào có chứa vần \u0027ac\u0027?",
+                                                                 "options":  [
+                                                                                 "củ cải",
+                                                                                 "củ lạc",
+                                                                                 "củ khoai",
+                                                                                 "củ cà rốt"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Tiếng \u0027mông\u0027 có vần \u0027ông\u0027",
+                                                                 "answer":  "mênh mông",
+                                                                 "id":  9,
+                                                                 "question":  "Từ nào dưới đây chứa tiếng có vần \u0027ông\u0027?",
+                                                                 "options":  [
+                                                                                 "chong chóng",
+                                                                                 "mênh mông",
+                                                                                 "lênh khênh",
+                                                                                 "đóm đóm"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "id":  10,
+                                                                 "answer":  "con rết",
+                                                                 "explanation":  "Trong hình là con rết",
+                                                                 "image":  "assets/images/v5_image17.png",
+                                                                 "options":  [
+                                                                                 "con rết",
+                                                                                 "con giun",
+                                                                                 "con rắn",
+                                                                                 "con trăn"
+                                                                             ],
+                                                                 "question":  "Đây là con gì?"
+                                                             }
+                                                         ],
+                                           "type":  "quiz"
+                                       }
+                                   ],
+                      "id":  "v5-de-2"
+                  },
+                  {
+                      "duration":  1200,
+                      "title":  "Đề số 3",
+                      "sections":  [
+                                       {
+                                           "instruction":  "Bé hãy bấm chọn 2 ô tương ứng để ghép thành cặp từ đúng nhé!",
+                                           "title":  "Bài 1. Mèo con nhanh nhẹn - Ghép cặp từ ngữ",
+                                           "type":  "match",
+                                           "pairs":  [
+                                                         {
+                                                             "left":  "Giá đỗ",
+                                                             "right":  "Quả ớt"
+                                                         },
+                                                         {
+                                                             "left":  "Cá chép",
+                                                             "right":  "Thợ lặn"
+                                                         },
+                                                         {
+                                                             "left":  "Con cua",
+                                                             "right":  "Thỏ con"
+                                                         },
+                                                         {
+                                                             "left":  "Cà rốt",
+                                                             "right":  "Bí đỏ"
+                                                         },
+                                                         {
+                                                             "left":  "Cá ngựa",
+                                                             "right":  "Cây mía"
+                                                         }
+                                                     ]
+                                       },
+                                       {
+                                           "instruction":  "Em hãy đọc kỹ và chọn đáp án đúng nhé!",
+                                           "title":  "Bài 2. Chuột con nhanh trí - Trắc nghiệm kiến thức",
+                                           "questions":  [
+                                                             {
+                                                                 "explanation":  "Giờ tan tầm",
+                                                                 "answer":  "an",
+                                                                 "id":  1,
+                                                                 "question":  "Chọn vần thích hợp: Giờ t...... tầm, phố xá tấp nập, xe cộ đi rầm rập.",
+                                                                 "options":  [
+                                                                                 "ôm",
+                                                                                 "ên",
+                                                                                 "an",
+                                                                                 "am"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "id":  2,
+                                                                 "answer":  "Bạn nhỏ chia quà.",
+                                                                 "explanation":  "Bạn nhỏ đang chia quà cho các bạn",
+                                                                 "image":  "assets/images/v5_image30.png",
+                                                                 "options":  [
+                                                                                 "Bạn nhỏ đi bộ.",
+                                                                                 "Bạn nhỏ chia quà.",
+                                                                                 "Bạn nhỏ tô vẽ.",
+                                                                                 "Bạn nhỏ đi đò."
+                                                                             ],
+                                                                 "question":  "Bạn nhỏ trong tranh đang làm gì?"
+                                                             },
+                                                             {
+                                                                 "explanation":  "Tiếng đệm có vần êm",
+                                                                 "answer":  "đệm",
+                                                                 "id":  3,
+                                                                 "question":  "Tiếng nào dưới đây có vần \u0027êm\u0027?",
+                                                                 "options":  [
+                                                                                 "đệm",
+                                                                                 "đốm",
+                                                                                 "rơm",
+                                                                                 "nem"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "id":  4,
+                                                                 "answer":  "con đom đóm",
+                                                                 "explanation":  "Con đom đóm có vần om",
+                                                                 "image":  "assets/images/v5_image31.png",
+                                                                 "options":  [
+                                                                                 "con đom đóm",
+                                                                                 "con ong",
+                                                                                 "con bướm",
+                                                                                 "con chuồn chuồn"
+                                                                             ],
+                                                                 "question":  "Tên con vật nào chứa tiếng có vần \u0027om\u0027?"
+                                                             },
+                                                             {
+                                                                 "id":  5,
+                                                                 "answer":  "con hà mã",
+                                                                 "explanation":  "Trong hình là con hà mã",
+                                                                 "image":  "assets/images/v5_image32.png",
+                                                                 "options":  [
+                                                                                 "con lợn",
+                                                                                 "con chó",
+                                                                                 "con tôm",
+                                                                                 "con hà mã"
+                                                                             ],
+                                                                 "question":  "Đây là con gì?"
+                                                             },
+                                                             {
+                                                                 "explanation":  "Tiếng \u0027chẫm\u0027, \u0027chầm\u0027 có vần âm",
+                                                                 "answer":  "âm",
+                                                                 "id":  6,
+                                                                 "question":  "Vần nào có trong đoạn thơ sau: \u0027Bé Na đi lẫm chẫm / Đến bên chị ôm chầm / Chị ôm hôn trán bé / Và nô đùa trên sân.\u0027?",
+                                                                 "options":  [
+                                                                                 "am",
+                                                                                 "ơm",
+                                                                                 "om",
+                                                                                 "âm"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Tấm thảm len",
+                                                                 "answer":  "l",
+                                                                 "id":  7,
+                                                                 "question":  "Chọn chữ thích hợp để điền vào chỗ chấm: tấm thảm ......en",
+                                                                 "options":  [
+                                                                                 "n",
+                                                                                 "v",
+                                                                                 "l",
+                                                                                 "m"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Đều có vần an",
+                                                                 "answer":  "an",
+                                                                 "id":  8,
+                                                                 "question":  "Các tiếng \u0027gan\u0027, \u0027trán\u0027, \u0027cạn\u0027 có chung vần gì?",
+                                                                 "options":  [
+                                                                                 "ăn",
+                                                                                 "en",
+                                                                                 "an",
+                                                                                 "ân"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Con bò sữa",
+                                                                 "answer":  "bò sữa",
+                                                                 "id":  9,
+                                                                 "question":  "Giải câu đố: \u0027Con gì ăn cỏ / Cho bé sữa ngon?\u0027",
+                                                                 "options":  [
+                                                                                 "sư tử",
+                                                                                 "hà mã",
+                                                                                 "bò sữa",
+                                                                                 "ngựa vằn"
+                                                                             ]
+                                                             }
+                                                         ],
+                                           "type":  "quiz"
+                                       }
+                                   ],
+                      "id":  "v5-de-3"
+                  },
+                  {
+                      "duration":  1200,
+                      "title":  "Đề số 4",
+                      "sections":  [
+                                       {
+                                           "instruction":  "Bé hãy bấm chọn 2 ô để ghép đôi chính xác nhé!",
+                                           "title":  "Bài 1. Mèo con nhanh nhẹn - Ghép đôi",
+                                           "type":  "match",
+                                           "pairs":  [
+                                                         {
+                                                             "left":  "Búp bê",
+                                                             "right":  "Mũ len"
+                                                         },
+                                                         {
+                                                             "left":  "Tấm rèm",
+                                                             "right":  "Quả dừa"
+                                                         },
+                                                         {
+                                                             "left":  "Hộp quà",
+                                                             "right":  "Ốc sên"
+                                                         },
+                                                         {
+                                                             "left":  "Xe đạp",
+                                                             "right":  "Đua ngựa"
+                                                         },
+                                                         {
+                                                             "left":  "Số bốn",
+                                                             "right":  "4"
+                                                         }
+                                                     ]
+                                       },
+                                       {
+                                           "instruction":  "Bé hãy đọc kỹ và trả lời các câu hỏi sau nhé!",
+                                           "title":  "Bài 2. Trắc nghiệm thông minh",
+                                           "questions":  [
+                                                             {
+                                                                 "explanation":  "Con ve sầu kêu râm ran mùa hè",
+                                                                 "answer":  "con ve",
+                                                                 "id":  1,
+                                                                 "question":  "Giải câu đố: \u0027Con gì ra rả / Râm ran cả hè?\u0027",
+                                                                 "options":  [
+                                                                                 "con lợn",
+                                                                                 "con ong",
+                                                                                 "con ve",
+                                                                                 "con sóc"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Bản tin thời sự",
+                                                                 "answer":  "in",
+                                                                 "id":  2,
+                                                                 "question":  "Chọn vần thích hợp để điền vào chỗ chấm: Bố xem bản t...... trên ti vi.",
+                                                                 "options":  [
+                                                                                 "in",
+                                                                                 "âm",
+                                                                                 "am",
+                                                                                 "ên"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Cơm, sớm, thơm đều có vần ơm",
+                                                                 "answer":  "ơm",
+                                                                 "id":  3,
+                                                                 "question":  "Các tiếng \u0027cơm\u0027, \u0027sớm\u0027, \u0027thơm\u0027 có chung vần gì?",
+                                                                 "options":  [
+                                                                                 "am",
+                                                                                 "ơm",
+                                                                                 "ôm",
+                                                                                 "om"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Que kem có vần em",
+                                                                 "answer":  "kem",
+                                                                 "id":  4,
+                                                                 "question":  "Tiếng nào dưới đây có vần \u0027em\u0027?",
+                                                                 "options":  [
+                                                                                 "tép",
+                                                                                 "kem",
+                                                                                 "sen",
+                                                                                 "nét"
+                                                                             ]
+                                                             },
+                                                             {
+                                                                 "explanation":  "Chim sơn ca",
+                                                                 "answer":  "s",
+                                                                 "id":  5,
+                                                                 "question":  "Chọn chữ thích hợp điền vào chỗ trống: chim ......ơn ca",
+                                                                 "options":  [
+                                                                                 "l",
+                                                                                 "s",
+                                                                                 "n",
+                                                                                 "x"
+                                                                             ]
+                                                             }
+                                                         ],
+                                           "type":  "quiz"
+                                       }
+                                   ],
+                      "id":  "v5-de-4"
+                  }
+              ]
+}
